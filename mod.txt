@@ -2,3 +2,7 @@ aula pratica
 adicionei esta linha! 
 adicionei uma nova linha! 
 adicionei uma linha no master
+adicionando terceira linha
+adicionando quarta linha
+adicionando quinta linha
+adicionando sexta linha
